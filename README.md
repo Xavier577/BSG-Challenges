@@ -3,7 +3,7 @@
 ## Description
 
 ## Project List 
-- [x] LRU cache
+- [] LRU cache
 - [ ] Async logger
 - [ ] Arithmetic string parser
 - [ ] Event scheduler
